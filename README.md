@@ -1,9 +1,9 @@
 # SOFTWARE-EVOLUTION-AND-MAINTENANCE
-## 报告选题：数据挖掘在软件缺陷预测方面的应用
+## 报告选题：基于GitHub公开神经网络模型库的调研
 ## 参考文献：
-[1.Seyedrebvar Hosseini, Burak Turhan, Mika Mäntylä: Search Based Training Data Selection For Cross Project Defect Prediction. PROMISE 2016: 3:1-3:10](/Article/2972958.2972964.pdf)  
-[2.	Yi Bin, Kai Zhou, Hongmin Lu, Yuming Zhou, Baowen Xu: Training Data Selection for Cross-Project Defection Prediction: Which Approach Is Better? ESEM 2017: 354-363](/Article/08170122.pdf)  
-[3.Davide Falessi, Max Jason Moede: Facilitating feasibility analysis: the pilot defects prediction dataset maker. SWAN@ESEC/SIGSOFT FSE 2018: 15-18](/Article/3278142.3278147.pdf)  
+[1.Zenan Li, Xiaoxing Ma, Chang Xu, Chun Cao, Jingwei Xu, Jian Lü: Boosting operational DNN testing efficiency through conditioning. ESEC/SIGSOFT FSE 2019: 499-509](/Article/2972958.2972964.pdf)  
+[2.	Xuanyi Dong, Yi Yang:NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search. CoRR abs/2001.00326 (2020)](/Article/08170122.pdf)  
+[3.	Shiqing Ma, Yingqi Liu, Wen-Chuan Lee, Xiangyu Zhang, Ananth Grama:MODE: automated neural network model debugging via state differential analysis and input selection. ESEC/SIGSOFT FSE 2018: 175-186](/Article/3278142.3278147.pdf)  
 [4.	Zhou Xu, Shuai Li, Yutian Tang, Xiapu Luo, Tao Zhang, Jin Liu, Jun Xu: Cross version defect prediction with representative data via sparse subset selection. ICPC 2018: 132-143](/Article/3196321.3196331.pdf)  
 [5.Amritanshu Agrawal, Tim Menzies: Is "better data" better than "better data miners"?: on the benefits of tuning SMOTE for defect prediction. ICSE 2018: 1050-1061](/Article/3180155.3180197.pdf)  
 [6.	Seyedrebvar Hosseini, Burak Turhan: An Exploratory Study of Search Based Training Data Selection for Cross Project Defect Prediction. SEAA 2018: 244-251](/Article/08498215.pdf)  
