@@ -11,6 +11,6 @@ Boosting operational DNN testing efficiency through conditioning. ESEC/SIGSOFT F
 [6.	J. Deng, W. Dong, R. Socher, L. J. Li, K. Li, and L. Fei-Fei. Imagenet: A large-scale hierarchical image database.InComputer Vision and Pattern Recognition, 2009. CVPR2009. IEEE Conference on, pages 248–255, June 2009.](/reference/05206848.pdf)  
 [7.	Karen Simonyan, Andrew Zisserman: Very Deep Convolutional Networks for Large-Scale Image Recognition. ICLR 2015](/reference/1409.1556.pdf)  
 [8.		Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun: Deep Residual Learning for Image Recognition. CoRR abs/1512.03385 (2015)](/reference/1409.1556.pdf)  
-## 报告：见PDF文件
-## 汇报PPT：见PPT文件
+## 报告：见[PDF](/课程报告.pdf)文件
+## 汇报PPT：见[PPT](/汇报.pptx)文件
 
