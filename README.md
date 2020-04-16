@@ -6,8 +6,11 @@ Boosting operational DNN testing efficiency through conditioning. ESEC/SIGSOFT F
 ](/reference/Boosting.pdf)   
 [2.	Xuanyi Dong, Yi Yang:NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search. CoRR abs/2001.00326 (2020)](/reference/2001.00326.pdf)  
 [3.	Shiqing Ma, Yingqi Liu, Wen-Chuan Lee, Xiangyu Zhang, Ananth Grama:MODE: automated neural network model debugging via state differential analysis and input selection. ESEC/SIGSOFT FSE 2018: 175-186](/reference/3236024.3236082.pdf)  
-## 目录：
-1.背景：介绍研究背景，前人所取得的研究成果  
-2.问题定义：阐述研究问题的定义  
-3.方法和技术：介绍研究问题所使用的研究方法和相关技术等  
-4.相关工作：介绍目前已有的研究内容和成果
+[4.	Han Xiao, Kashif Rasul, Roland Vollgraf:Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. CoRR abs/1708.07747 (2017)](/reference/1708.07747.pdf)  
+[5.	Alex Krizhevsky.  Learning Multiple Layers of Features from Tiny Images.  Technical report, Uni-versity of Toronto, 2009](/reference/f06bb70a0a3dced62413346235c02b1aa086.pdf)  
+[6.	J. Deng, W. Dong, R. Socher, L. J. Li, K. Li, and L. Fei-Fei. Imagenet: A large-scale hierarchical image database.InComputer Vision and Pattern Recognition, 2009. CVPR2009. IEEE Conference on, pages 248–255, June 2009.](/reference/05206848.pdf)  
+[7.	Karen Simonyan, Andrew Zisserman: Very Deep Convolutional Networks for Large-Scale Image Recognition. ICLR 2015](/reference/1409.1556.pdf)  
+[8.		Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun: Deep Residual Learning for Image Recognition. CoRR abs/1512.03385 (2015)](/reference/1409.1556.pdf)  
+## 报告：见PDF文件
+## 汇报PPT：见PPT文件
+
